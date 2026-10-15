@@ -1,0 +1,10 @@
+node_modules
+dist
+*.log
+.env
+tsconfig.tsbuildinfo
+.env.*
+!.env.example
+*.local
+.DS_Store
+Thumbs.db

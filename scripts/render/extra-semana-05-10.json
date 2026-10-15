@@ -1,0 +1,282 @@
+{
+ "2026-10-06-modelo": {
+  "slides": [
+   [
+    "A",
+    "IA não conserta modelo semântico ruim",
+    "Sem base organizada, ela só erra mais rápido.",
+    "DADOS + IA"
+   ],
+   [
+    "B",
+    "Modelo bagunçado, resposta bagunçada",
+    "Medidas duplicadas, nomes confusos e relações soltas fazem a IA responder com muita segurança e errar."
+   ],
+   [
+    "G",
+    "A IA lê o que você modelou",
+    "Ela não adivinha a regra de negócio. Se o modelo diz uma coisa e o negócio outra, a resposta segue o modelo."
+   ],
+   [
+    "C",
+    "Antes de ligar a IA, revise:",
+    "Nomes de tabelas e colunas\nMedidas duplicadas ou conflitantes\nRelações entre as tabelas\nRegras de negócio documentadas\nQuem é dono de cada métrica"
+   ],
+   [
+    "B",
+    "Duas medidas, dois faturamentos",
+    "Exemplo ilustrativo: o modelo tem duas medidas chamadas faturamento, com valores diferentes. A IA escolhe uma. Qual está certa?"
+   ],
+   [
+    "F",
+    "IA acelera o que já está organizado.",
+    "E também o que está errado."
+   ],
+   [
+    "E",
+    "Qual parte do seu modelo você não colocaria na frente de uma IA?",
+    "Envie para quem vai ligar IA no dado"
+   ]
+  ],
+  "plan": [
+   {
+    "type": "cover",
+    "scene": "beam"
+   },
+   {
+    "type": "photoTop",
+    "scene": "beam"
+   },
+   {
+    "type": "yellowCard",
+    "scene": "beam"
+   },
+   {
+    "type": "list",
+    "scene": "beam"
+   },
+   {
+    "type": "lightSplit",
+    "scene": "beam"
+   },
+   {
+    "type": "statement",
+    "scene": "beam"
+   },
+   {
+    "type": "cta",
+    "scene": "beam"
+   }
+  ]
+ },
+ "2026-10-07-decisao": {
+  "slides": [
+   [
+    "A",
+    "Antes de pedir mais dado, pergunte qual decisão ele vai apoiar",
+    "Mais dado nem sempre é mais clareza.",
+    "DADOS + CARREIRA"
+   ],
+   [
+    "B",
+    "Todo relatório novo nasce de uma dúvida",
+    "Quando a dúvida não está clara, o relatório vira mais um número sem dono e sem ação."
+   ],
+   [
+    "G",
+    "Comece pela decisão",
+    "Descubra o que precisa ser decidido e só depois pergunte qual dado ajuda nisso."
+   ],
+   [
+    "C",
+    "Antes de pedir um dado, responda:",
+    "Que decisão ele apoia?\nQuem vai decidir?\nO que muda se o número subir ou cair?\nPara quando é preciso?\nQual ação vem depois?"
+   ],
+   [
+    "B",
+    "Duas formas de pedir",
+    "Exemplo ilustrativo. Fraco: me manda as vendas por região. Melhor: onde devemos reforçar a equipe este mês, e o que as vendas por região mostram sobre isso?"
+   ],
+   [
+    "F",
+    "Pergunta boa vale mais que relatório novo.",
+    ""
+   ],
+   [
+    "E",
+    "Qual relatório você pediu esta semana sem saber a decisão?",
+    "Envie para quem vive pedindo mais um relatório"
+   ]
+  ],
+  "plan": [
+   {
+    "type": "cover",
+    "scene": "beam"
+   },
+   {
+    "type": "photoTop",
+    "scene": "beam"
+   },
+   {
+    "type": "yellowCard",
+    "scene": "beam"
+   },
+   {
+    "type": "list",
+    "scene": "beam"
+   },
+   {
+    "type": "lightSplit",
+    "scene": "beam"
+   },
+   {
+    "type": "statement",
+    "scene": "beam"
+   },
+   {
+    "type": "cta",
+    "scene": "beam"
+   }
+  ]
+ },
+ "2026-10-10-dado-nao-questionado": {
+  "slides": [
+   [
+    "A",
+    "O dado que ninguém questiona é o mais perigoso",
+    "Número que todo mundo usa e ninguém confere pode derrubar uma decisão.",
+    "DADOS + CARREIRA"
+   ],
+   [
+    "B",
+    "Todo mundo usa, ninguém confere",
+    "Quando um número aparece em toda reunião, ele ganha confiança sem nunca ter passado por validação."
+   ],
+   [
+    "G",
+    "Pergunte de onde ele vem",
+    "Quem preenche, quando atualiza e o que ficou de fora. Três perguntas simples mudam a confiança no número."
+   ],
+   [
+    "C",
+    "Antes de confiar no número, descubra:",
+    "Qual é a fonte do dado\nQuem preenche e com que regra\nQuando foi a última atualização\nO que está fora da conta\nQuem aprova o resultado"
+   ],
+   [
+    "B",
+    "Quem pergunta ganha confiança",
+    "Quem questiona a origem do número cedo evita o erro tarde. Esse hábito também constrói reputação com quem decide."
+   ],
+   [
+    "F",
+    "Dado sem origem é só opinião com gráfico.",
+    ""
+   ],
+   [
+    "E",
+    "Qual número você usa toda semana sem saber de onde vem?",
+    "Envie para quem aceita todo número pronto"
+   ]
+  ],
+  "plan": [
+   {
+    "type": "cover",
+    "scene": "beam"
+   },
+   {
+    "type": "photoTop",
+    "scene": "beam"
+   },
+   {
+    "type": "yellowCard",
+    "scene": "beam"
+   },
+   {
+    "type": "list",
+    "scene": "beam"
+   },
+   {
+    "type": "lightSplit",
+    "scene": "beam"
+   },
+   {
+    "type": "statement",
+    "scene": "beam"
+   },
+   {
+    "type": "cta",
+    "scene": "beam"
+   }
+  ]
+ },
+ "2026-10-08-promocao": {
+  "slides": [
+   [
+    "A",
+    "Ninguém te promove só por saber a ferramenta",
+    "Quem cresce explica o número para quem decide.",
+    "CARREIRA"
+   ],
+   [
+    "B",
+    "Ferramenta é meio, não entrega",
+    "Dominar o Power BI ajuda. Mas o que a liderança enxerga é o problema que você resolveu."
+   ],
+   [
+    "G",
+    "Quem cresce traduz o número",
+    "Transforma análise em recomendação e recomendação em ação."
+   ],
+   [
+    "C",
+    "O que acompanha a ferramenta:",
+    "Entender o problema do negócio\nExplicar o número sem jargão\nApontar a decisão que o dado apoia\nValidar a qualidade antes de apresentar\nAcompanhar o que foi feito depois"
+   ],
+   [
+    "B",
+    "Mesma análise, dois resultados",
+    "Exemplo ilustrativo. Quem apenas envia o painel espera um retorno. Quem apresenta a decisão que o painel apoia vira referência na reunião."
+   ],
+   [
+    "F",
+    "A ferramenta abre a porta. A comunicação te leva adiante.",
+    ""
+   ],
+   [
+    "E",
+    "O que você faz hoje que vai além de usar a ferramenta?",
+    "Envie para quem ainda acha que o diferencial é o botão"
+   ]
+  ],
+  "plan": [
+   {
+    "type": "cover",
+    "scene": "beam"
+   },
+   {
+    "type": "photoTop",
+    "scene": "beam"
+   },
+   {
+    "type": "yellowCard",
+    "scene": "beam"
+   },
+   {
+    "type": "list",
+    "scene": "beam"
+   },
+   {
+    "type": "lightSplit",
+    "scene": "beam"
+   },
+   {
+    "type": "statement",
+    "scene": "beam"
+   },
+   {
+    "type": "cta",
+    "scene": "beam"
+   }
+  ]
+ }
+}

@@ -1,0 +1,589 @@
+{
+ "2026-09-28": [
+  {
+   "code": "c00_1",
+   "id": "QsqTZw2xkiw",
+   "by": "Mustafi Numann"
+  },
+  {
+   "code": "c01_1",
+   "id": "7McWuZZ6qYc",
+   "by": "Rodrigo Rodrigues "
+  },
+  {
+   "code": "c02_1",
+   "id": "G5wOg4X8Ovs",
+   "by": "Stefan Heinemann"
+  },
+  {
+   "code": "c03_1",
+   "id": "YoIq2GyYcAU",
+   "by": "Faraaz Zuberi"
+  },
+  {
+   "code": "c04_1",
+   "id": "qwtCeJ5cLYs",
+   "by": "Stephen Dawson"
+  },
+  {
+   "code": "c05_2",
+   "id": "9hTIzhUYxH4",
+   "by": "Fer Troulik"
+  },
+  {
+   "code": "c03_2",
+   "id": "GWYhxTYDAJk",
+   "by": "serasena"
+  }
+ ],
+ "2026-10-05": [
+  {
+   "code": "c06_1",
+   "id": "qnU-UR0o5X8",
+   "by": "Jeremy Beadle"
+  },
+  {
+   "code": "c07_0",
+   "id": "YI_9SivVt_s",
+   "by": "Israel Andrade"
+  },
+  {
+   "code": "c08_2",
+   "id": "K2su7lbKVYA",
+   "by": "Yosuke Ota"
+  },
+  {
+   "code": "c17_1",
+   "id": "pEVjp7yIc2A",
+   "by": "Microsoft Copilot"
+  },
+  {
+   "code": "c09_2",
+   "id": "Ili1gmB9Jes",
+   "by": "Sebastian Herrmann"
+  },
+  {
+   "code": "c10_3",
+   "id": "TnPRWVKY2vo",
+   "by": "Alice Triquet"
+  },
+  {
+   "code": "c08_3",
+   "id": "oGSbWI61ETM",
+   "by": "Adrien King"
+  }
+ ],
+ "2026-10-12": [
+  {
+   "code": "c15_1",
+   "id": "zFYUsLk_50Y",
+   "by": "Massimo Botturi"
+  },
+  {
+   "code": "c12_1",
+   "id": "V_lbeoyHHuA",
+   "by": "J F"
+  },
+  {
+   "code": "c15_0",
+   "id": "M5tzZtFCOfs",
+   "by": "Taylor Vick"
+  },
+  {
+   "code": "c13_1",
+   "id": "wN9oyogyjQc",
+   "by": ""
+  },
+  {
+   "code": "c14_2",
+   "id": "_lvgElp_3M4",
+   "by": "Patrick Pahlke"
+  },
+  {
+   "code": "c11_0",
+   "id": "dyUp7WPu5q4",
+   "by": "Albert Stoynov"
+  },
+  {
+   "code": "c12_2",
+   "id": "zRmCWjppTV0",
+   "by": "K. K. Yam Amot"
+  }
+ ],
+ "2026-10-19": [
+  {
+   "code": "c04_1",
+   "id": "qwtCeJ5cLYs",
+   "by": ""
+  },
+  {
+   "code": "c16_1",
+   "id": "4B6-E8c7t9I",
+   "by": "Richard Jaimes"
+  },
+  {
+   "code": "c04_0",
+   "id": "JKUTrJ4vK00",
+   "by": ""
+  },
+  {
+   "code": "c17_0",
+   "id": "cckf4TsHAuw",
+   "by": "Andrew Neel"
+  },
+  {
+   "code": "c17_2",
+   "id": "3q4V539j_bw",
+   "by": "2H Media"
+  },
+  {
+   "code": "c12_3",
+   "id": "5AFQwz2gWb8",
+   "by": "Michael Förtsch"
+  },
+  {
+   "code": "c14_1",
+   "id": "LhPhrWAJ9rs",
+   "by": "nedimshoots"
+  }
+ ],
+ "2026-10-26": [
+  {
+   "code": "c18_0",
+   "id": "l6azMNro8N8",
+   "by": "Sasha Kaunas"
+  },
+  {
+   "code": "c19_1",
+   "id": "BjhUu6BpUZA",
+   "by": "Priscilla Du Preez 🇨🇦"
+  },
+  {
+   "code": "c20_0",
+   "id": "pWUyHVJgLhg",
+   "by": "Homa Appliances"
+  },
+  {
+   "code": "c21_2",
+   "id": "JUJzjthZnYU",
+   "by": "Sufyan"
+  },
+  {
+   "code": "c16_0",
+   "id": "kEXMAGTivXA",
+   "by": "Christian Holzinger"
+  },
+  {
+   "code": "c22_1",
+   "id": "2CakbXfm_gM",
+   "by": "Dmitrijs Safrans"
+  },
+  {
+   "code": "c18_1",
+   "id": "XXan5vxeHPE",
+   "by": "Patrick Federi"
+  }
+ ],
+ "2026-11-02": [
+  {
+   "code": "0_1",
+   "id": "N7Bjz9vY67E",
+   "by": ""
+  },
+  {
+   "code": "1_2",
+   "id": "tR0jvlsmCuQ",
+   "by": ""
+  },
+  {
+   "code": "2_2",
+   "id": "w7ZyuGYNpRQ",
+   "by": ""
+  },
+  {
+   "code": "3_1",
+   "id": "MnPWB-ybjHQ",
+   "by": ""
+  },
+  {
+   "code": "4_0",
+   "id": "tOcL35RpI2c",
+   "by": ""
+  },
+  {
+   "code": "5_2",
+   "id": "HJgaV1qjHS0",
+   "by": ""
+  },
+  {
+   "code": "6_1",
+   "id": "LGtJ44QWo_c",
+   "by": ""
+  }
+ ],
+ "2026-11-09": [
+  {
+   "code": "0_1",
+   "id": "ymn_TY_MBn8",
+   "by": ""
+  },
+  {
+   "code": "1_0",
+   "id": "j2c7yf223Mk",
+   "by": ""
+  },
+  {
+   "code": "2_0",
+   "id": "L5DxWLmywmM",
+   "by": ""
+  },
+  {
+   "code": "3_2",
+   "id": "qFSQFSmfZkA",
+   "by": ""
+  },
+  {
+   "code": "4_2",
+   "id": "ekHSHvgr27k",
+   "by": ""
+  },
+  {
+   "code": "5_0",
+   "id": "wS73LE0GnKs",
+   "by": ""
+  },
+  {
+   "code": "6_0",
+   "id": "VyyOC3xWlKY",
+   "by": ""
+  }
+ ],
+ "2026-11-16": [
+  {
+   "code": "0_1",
+   "id": "mP2GF2D8H-4",
+   "by": ""
+  },
+  {
+   "code": "1_0",
+   "id": "npxXWgQ33ZQ",
+   "by": ""
+  },
+  {
+   "code": "2_0",
+   "id": "Hx-4TbpsoIw",
+   "by": ""
+  },
+  {
+   "code": "3_1",
+   "id": "_K-_trfi-i0",
+   "by": ""
+  },
+  {
+   "code": "4_0",
+   "id": "sbVu5zitZt0",
+   "by": ""
+  },
+  {
+   "code": "c22_1",
+   "id": "2CakbXfm_gM",
+   "by": "Dmitrijs Safrans"
+  },
+  {
+   "code": "6_0",
+   "id": "t3ItLqF-PPU",
+   "by": ""
+  }
+ ],
+ "2026-11-23": [
+  {
+   "code": "1_1",
+   "id": "fiXLQXAhCfk",
+   "by": ""
+  },
+  {
+   "code": "1_2",
+   "id": "Wb63zqJ5gnE",
+   "by": ""
+  },
+  {
+   "code": "2_2",
+   "id": "ZDYN7azwO6c",
+   "by": ""
+  },
+  {
+   "code": "3_1",
+   "id": "gMsnXqILjp4",
+   "by": ""
+  },
+  {
+   "code": "4_0",
+   "id": "OVbeSXRk_9E",
+   "by": ""
+  },
+  {
+   "code": "5_2",
+   "id": "n_YWKiIBnp4",
+   "by": ""
+  }
+ ],
+ "2026-11-30": [
+  {
+   "code": "0_0",
+   "id": "dYEuFB8KQJk",
+   "by": ""
+  },
+  {
+   "code": "1_2",
+   "id": "bSlHKWxxXak",
+   "by": ""
+  },
+  {
+   "code": "2_1",
+   "id": "y02jEX_B0O0",
+   "by": ""
+  },
+  {
+   "code": "3_1",
+   "id": "2JJ3wBHu4_0",
+   "by": ""
+  },
+  {
+   "code": "4_0",
+   "id": "qB8tpVXQh6Y",
+   "by": ""
+  },
+  {
+   "code": "5_1",
+   "id": "zAhAUSdRLJ8",
+   "by": ""
+  },
+  {
+   "code": "6_2",
+   "id": "M5wtE0KShns",
+   "by": ""
+  }
+ ],
+ "2026-12-07": [
+  {
+   "code": "0_0",
+   "id": "iiaUVel-cJE",
+   "by": ""
+  },
+  {
+   "code": "1_0",
+   "id": "ZH4FUYiaczY",
+   "by": ""
+  },
+  {
+   "code": "2_1",
+   "id": "qWwpHwip31M",
+   "by": ""
+  },
+  {
+   "code": "3_1",
+   "id": "9tmKEDz03uw",
+   "by": ""
+  },
+  {
+   "code": "4_1",
+   "id": "VzJjPuk53sk",
+   "by": ""
+  },
+  {
+   "code": "5_2",
+   "id": "YOy-ek-aBR0",
+   "by": ""
+  },
+  {
+   "code": "6_1",
+   "id": "zH9kK6wNC20",
+   "by": ""
+  }
+ ],
+ "2026-12-14": [
+  {
+   "code": "0_2",
+   "id": "_iSW2i7IboA",
+   "by": ""
+  },
+  {
+   "code": "1_1",
+   "id": "JKUTrJ4vK00",
+   "by": ""
+  },
+  {
+   "code": "2_1",
+   "id": "VT4rx775FT4",
+   "by": ""
+  },
+  {
+   "code": "3_1",
+   "id": "cNGvcAvxHAo",
+   "by": ""
+  },
+  {
+   "code": "4_2",
+   "id": "HJmxky8Fvmo",
+   "by": ""
+  },
+  {
+   "code": "5_2",
+   "id": "flRm0z3MEoA",
+   "by": ""
+  },
+  {
+   "code": "6_1",
+   "id": "z4knuWP5MMk",
+   "by": ""
+  }
+ ],
+ "2026-10-06-modelo": [
+  {
+   "code": "x",
+   "id": "M5tzZtFCOfs",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "JKUTrJ4vK00",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "9tmKEDz03uw",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "3q4V539j_bw",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "qwtCeJ5cLYs",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "dyUp7WPu5q4",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "OVbeSXRk_9E",
+   "by": ""
+  }
+ ],
+ "2026-10-07-decisao": [
+  {
+   "code": "x",
+   "id": "4B6-E8c7t9I",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "Wb63zqJ5gnE",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "qWwpHwip31M",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "ZH4FUYiaczY",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "XXan5vxeHPE",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "l6azMNro8N8",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "n_YWKiIBnp4",
+   "by": ""
+  }
+ ],
+ "2026-10-10-dado-nao-questionado": [
+  {
+   "code": "x",
+   "id": "GWYhxTYDAJk",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "shr_Xn8S8QU",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "ZDYN7azwO6c",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "cckf4TsHAuw",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "5AFQwz2gWb8",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "y02jEX_B0O0",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "LGtJ44QWo_c",
+   "by": ""
+  }
+ ],
+ "2026-10-08-promocao": [
+  {
+   "code": "x",
+   "id": "qnU-UR0o5X8",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "MnPWB-ybjHQ",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "ymn_TY_MBn8",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "w7ZyuGYNpRQ",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "HJgaV1qjHS0",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "mP2GF2D8H-4",
+   "by": ""
+  },
+  {
+   "code": "x",
+   "id": "t3ItLqF-PPU",
+   "by": ""
+  }
+ ]
+}
